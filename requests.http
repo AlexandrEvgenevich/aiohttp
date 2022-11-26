@@ -33,7 +33,3 @@ Content-Type: application/json
 
 DELETE http://0.0.0.0:8080/notifications/1
 Content-Type: application/json
-
-{
-    "id": "1"
-}
